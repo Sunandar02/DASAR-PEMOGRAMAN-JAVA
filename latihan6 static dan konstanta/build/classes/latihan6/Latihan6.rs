@@ -1,0 +1,2 @@
+latihan6.Latihan6
+latihan6.KambingStatic
